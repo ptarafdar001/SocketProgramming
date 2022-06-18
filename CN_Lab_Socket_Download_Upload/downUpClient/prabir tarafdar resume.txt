@@ -1,0 +1,49 @@
+Prabir Tarafdar 
+                                Phone:    + 91 8944018462
+                                Email id: ptarafdar010@gmail.com
+linkedin: http://www.linkedin.com/in/ptarafdar001 Github: https://github.com/ptarafdar001
+
+EDUCATION
+• B. Tech in Computer Science and Engineering July 2018 - present
+Ramkrishna Mahato Government Engineering Collage Purulia, India
+• Cumulative GPA (upto 5 semesters): 8.14 / 10
+• Itachuna Sri Narayan Institution (H. S) Hooghly, India
+Percentage: 79% 2018
+
+SKILLS
+• Programming: C, C++, Python 3
+• Familiar With: JavaScript, React Js, Java, HTML, CSS ,Socket (basic)
+• Operating Systems: Linux, Windows
+• Database Management System: MySQL, Oracle
+• Version Control: Git, GitHub
+• Cloud Technologies: Firebase, AWS
+• Tools and Software: Visual Studio Code, PyCharm, Jupyter Notebook
+
+• Algorithm and Data structure's
+• Object oriented Design 
+• Problem Solving
+
+EXPERIENCE
+• Two and half years of Programming Experience
+• Recently I am participated Microsoft Azure Developer League and completed so many challenges
+And learn so many Skills through this.
+
+PROJECTS
+• YouTube Clone May 2021
+In this project I make Clone of YouTube web app with React JS, JavaScript, HTML, CSS and hosting it with Firebase. I am 
+working for making it fully functional like real YouTube, By using YouTube API.
+
+• TCP Chatroom February 2021
+A TCP Chat Room based on Socket Programming where multiple clients can join with a Server and chatting with each other
+(broadcasting functionality). To develop this project, I used 
+                                                        - Python Socket module and Threading module.
+
+• Notepad Pro October 2020
+A text editor application software called Notepad Pro (GUI application), It has some features like 'Microsoft Notepad app' 
+such as - save, save as, cut, copy, paste, find etc. which I designed and created using
+                                                        - Python Tkinter module & OS module.
+
+ACHEVEMENTS
+• Regular participant on CodeChef and other coding sites.
+3 at CodeChef and highest rating is 1707
+• CodeChef Handel: ptarafda
